@@ -1,0 +1,16 @@
+body{
+	background-color: #acbdb3;
+}
+
+
+table,
+td{
+	border:1px solid #008000;
+}
+
+
+thead,
+tfoot{
+	background-color: green;
+	color: 00FF00;
+}
